@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+/* 
+    Created on  :   6 Nov, 2017, 12:25:37 PM
+    Author      :   Ananth B
+*/
+
+
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.upload_file{
+    width: 200px;
+    height: 37px;
+    border: 1px solid;
+    padding: 6px;
+    margin: 5px 7px;
+}
+
+.download_template{
+    float:right;
+}
+
+.status_msg{
+    font-size: 14px;
+}
+
+.fsSubmitButton
+{
+    padding: 5px 17px 5px !important;
+    font-size: 18px !important;
+    background-color: #438eb9;
+    font-weight: bold;
+    text-shadow: 1px 1px #57D6C7;
+    color: #ffffff;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #438eb9;
+    cursor: pointer;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+  .tabsdemoDynamicHeight md-content {
+    background-color: transparent !important; }
+  .tabsdemoDynamicHeight md-content md-tabs {
+    background: #f6f6f6;
+    border: 1px solid #e1e1e1; }
+  .tabsdemoDynamicHeight md-content md-tabs md-tabs-wrapper {
+    background: white; }
+  .tabsdemoDynamicHeight md-content h1:first-child {
+    margin-top: 0; }
+
+  

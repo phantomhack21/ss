@@ -1,0 +1,9 @@
+[2025-12-05 15:52:47] Request processed successfully for DOI: test000, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-05 15:53:41] Request processed successfully for DOI: test000, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-05 16:00:49] Request processed successfully for DOI: test001, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-12 06:56:58] Request processed successfully for DOI: test001, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-12 07:08:38] Request processed successfully for DOI: 10.1093/aje/kwaf015, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-12 07:10:05] Request processed successfully for DOI: 10.1093/aje/kwaf015, Workflow: SupplementaryData, API Response Code: 412
+[2025-12-12 07:11:14] Request processed successfully for DOI: 10.1093/aje/kwaf015, Workflow: SupplementaryData, API Response Code: 201
+[2025-12-12 07:11:51] Request processed successfully for DOI: 10.1093/aje/kwaf015, Workflow: SupplementaryData, API Response Code: 201
+[2025-12-12 07:12:25] Request processed successfully for DOI: 10.1093/aje/kwaf017, Workflow: EditorChoice, API Response Code: 201

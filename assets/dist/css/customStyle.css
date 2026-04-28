@@ -1,0 +1,35 @@
+
+        .ace-nav .nav-user-photo {max-width: 25px;}
+        .ace-nav .username {font-size: 14px; text-transform:uppercase;}
+        #loadspinner{position: relative;width: 100%;height: 100%;background-color: #f1f5f9;opacity: 0.3;position: absolute;top: 0;left: 0;z-index: 10;}
+        .alertwarningshow{position: fixed;top: 52px;left: 38%;z-index: 9999999;margin: 0px auto;padding: 10px;display:none;}
+        #overlay {width: 100%;height: 100%;display:none;background-color: rgba(0, 0, 0, 0.37);opacity: 0.8;position: fixed;top:0;left:0;z-index:9999;}
+        #overlay i {display: table-cell;vertical-align:middle;text-align:center;}
+        .spin-big {font-size: 50px;height: 50px;width: 50px;}
+        .spin-normal {font-size: 35px;height: 35px;width: 35px;}
+        .spin-small {font-size: 20px;height: 20px;width: 20px;}      
+        .openrawfile{background-color:#6e757d;color:#6e757d;border-bottom-width: 2px;border-radius: 4px!important;display: inline-block;color: #FFF!important;text-shadow: 0 -1px 0 rgba(0,0,0,.25);background-image: none!important;border: 5px solid #FFF;box-shadow: none!important;transition: background-color .15s,border-color .15s,opacity .15s;vertical-align: middle;margin: 0;position: relative;font-weight: 400;text-align: center;touch-action: manipulation;white-space: nowrap;padding: 6px 12px;font-size: 14px;line-height: 1.42857143;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+        .no-action-trigger{opacity: 0.3;background-color: #b8cfd0;pointer-events: none;cursor: default;text-decoration: none;color: #b8cfd0;}
+        .qmsspikemodal {}.partialCheckin{font-weight: bolder;color: #3a87ad !important;font-style: italic;}.authornamestyle{font-weight: bolder;font-style: italic;}
+        
+        .dataTables_wrapper {
+    position: relative;
+}
+.dataTables_processing {
+    position: absolute !important;
+    top: 0 !important;
+    background: #000 !important;
+    width:100% !important;
+    height: 100% !important;
+    z-index: 1111111 !important;
+    color: #fff !important;
+    font-size: 30px !important;
+    text-align: center !important;
+    opacity: 0.4 !important;
+    margin: 0 !important;
+    /*padding: 5% 0 0 0 !important;*/
+}
+
+.val-error{
+    border: solid 1px #dd4b39 !important;
+} 
